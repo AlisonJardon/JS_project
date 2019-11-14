@@ -6,5 +6,5 @@
 
 * Les scripts sont commentés pour qu'ils ne s'affichent pas tous en même temps.
 * Seul le script_1.js est décommenté, pour afficher les autres, il faut les décommenter dans le fichier index.html.
-* Je ne suis allée qu'à l'exercice 5.
+* Je ne suis allée que jusqu'à l'exercice 5.
 * Au plaisir d'en parler au téléphone !
